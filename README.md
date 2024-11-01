@@ -11,8 +11,7 @@
 <p>
 Visit Paris
 Paris is a very beautiful place that has very cool and great tourist places </p>
-<img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/creatures/OhNoes.png
-/KGV8s2 iAtEYWYdvv5" width="250">
+<img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/15/6d/d6/paris.jpg?w=2400&h=1000&s=1" width="250">
 <body>Why should I visit paris?</body>
 <ul>    
     <li>See the Eiffel Tower</li>    
