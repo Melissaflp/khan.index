@@ -7,10 +7,7 @@
     <body>
     
         <h1>Travel to Paris</h1>
-      <img src="https://cdn.kastatic
-.org/third_party/javascript-khansrc/live
--editor/build/images/creatures/Hopper
--Cool.png">
+      <img src="https://media.timeout.com/images/106181719/1536/1152/image.webp">
 <p>
 Visit Paris
 Paris is a very beautiful place that has very cool and great tourist places </p>
